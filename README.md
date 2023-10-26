@@ -1,4 +1,4 @@
-# <h2 align="center"> Olá! Eu sou Daniel Salvatori 👋🏻 </h2> 
+# <h2 align="center"> Olá! Eu sou Daniel👋🏻 </h2> 
 <br>
 <br>
 
