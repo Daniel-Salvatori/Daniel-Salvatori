@@ -38,4 +38,4 @@ Esse projeto tem como objetivo o ranqueamento de interesse em seguro veicular pa
 <!-- Github Stats -->
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Salvatori&show_icons=true&theme=transparent) 
 
-</h2> # Daniel-Salvatori
+
