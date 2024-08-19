@@ -11,6 +11,9 @@ Sou formado em Sistemas de Informação com MBA em Gestão Empresarial. Atualmen
 <!-- Portifolio -->
 ## Principais projetos
 
+**[Monitoramento Progresso Alunos:](https://github.com/Daniel-Salvatori/Progresso_Alunos_CDS)** 
+Projeto desenvolvido para Comunidade DS cujo objetivo foi a construção de um ETL e um painel de visualização para acompanhamento do progresso dos alunos. O dados são extraídos da plataforma de ensino e posteriomente armazenados dentro do Google Cloud Platform (GCP). Um dashboard desenvolvido em streamlit permite aos tutores melhor gestão e acompanhamento das turmas.
+
 **[Programa de Fidelidade de E-commerce:](https://github.com/Daniel-Salvatori/Insiders_clusterization)** 
  O projeto consiste em agrupar os clientes cadastrados de acordo com o perfil de consumo. O resultado final é indicar os clientes elegíveis a participar de um programa de fidelidade intitulado "Insiders". Aqui você irá encontrar insights sobre negócio, modelo de machine learning de clusterização, deploy na AWS e um dashboard desenvolvido no Power BI para acompanhamento do programa.<br>
 
